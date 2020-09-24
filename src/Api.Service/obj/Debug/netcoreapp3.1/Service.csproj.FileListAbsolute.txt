@@ -1,0 +1,9 @@
+D:\Projetos\curso-api-net-core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Projetos\curso-api-net-core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Projetos\curso-api-net-core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Projetos\curso-api-net-core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Projetos\curso-api-net-core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Projetos\curso-api-net-core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Projetos\curso-api-net-core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Projetos\curso-api-net-core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Projetos\curso-api-net-core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
