@@ -5,6 +5,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.1\Data.deps.json" />
+    <Content Include="obj\Data.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\netcoreapp3.1\Data.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.6">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -14,6 +26,29 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Domain\Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Mapping\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\Data.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\Data.pdb" />
+    <None Include="obj\Data.csproj.nuget.g.props" />
+    <None Include="obj\Data.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Data.assets.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Data.dll" />
+    <None Include="obj\Debug\netcoreapp3.1\Data.pdb" />
+    <None Include="obj\project.nuget.cache" />
   </ItemGroup>
 
 </Project>
