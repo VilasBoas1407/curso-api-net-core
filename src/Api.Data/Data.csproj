@@ -33,10 +33,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repository\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="bin\Debug\netcoreapp3.1\Data.dll" />
     <None Include="bin\Debug\netcoreapp3.1\Data.pdb" />
     <None Include="obj\Data.csproj.nuget.g.props" />
