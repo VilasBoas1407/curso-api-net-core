@@ -47,7 +47,14 @@ namespace Data.Repository
 
         public Task<T> SelectAsync(Guid id)
         {
-            throw new NotImplementedException();
+            try
+            {
+
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public Task<IEnumerable<T>> SelectAsync()
@@ -55,9 +62,19 @@ namespace Data.Repository
             throw new NotImplementedException();
         }
 
-        public Task<T> UpdateAsync(T item)
+        public async Task<T> UpdateAsync(T item)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = await _dataSet
+                    .SingleOrDefaultAsync(p => p.Id.Equals(item.Id))
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            return item;
         }
     }
 }
