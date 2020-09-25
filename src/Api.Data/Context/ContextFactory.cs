@@ -7,7 +7,7 @@ namespace Data.Context
     {
         public MyContext CreateDbContext(string[] args)
         {
-            var connectionString = "Server:127.0.0.1;Database=dbAPI;Uid=sa;Pwd=123456";
+            var connectionString = "Server=127.0.0.1;Database=dbAPI;User Id=sa;Password=123456;";
             var optionsBuilder = new DbContextOptionsBuilder<MyContext>();
             optionsBuilder.UseSqlServer(connectionString);
             return new MyContext(optionsBuilder.Options);
