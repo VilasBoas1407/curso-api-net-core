@@ -13,6 +13,7 @@ namespace Data.Repository
 
         protected readonly MyContext _context;
         private DbSet<T> _dataSet;
+
         public BaseRepository(MyContext context)
         {
             _context = context;
