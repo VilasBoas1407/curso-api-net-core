@@ -19,9 +19,26 @@ namespace Data.Repository
             _dataSet = context.Set<T>();
         }
             
-        public Task<bool> DeleteAsync(Guid id)
+        public async Task<bool> DeleteAsync(Guid Id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                bool ret = true;
+                var result = await _dataSet
+                    .SingleOrDefaultAsync(p => p.Id.Equals(Id));
+
+                if (result == null)
+                    return ret;
+
+                _dataSet.Remove(result);
+                await _context.SaveChangesAsync();
+
+                return ret;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public async Task<T> InsertAsync(T item)
@@ -49,7 +66,7 @@ namespace Data.Repository
         {
             try
             {
-
+                return null;
             }
             catch (Exception ex)
             {
@@ -67,7 +84,17 @@ namespace Data.Repository
             try
             {
                 var result = await _dataSet
-                    .SingleOrDefaultAsync(p => p.Id.Equals(item.Id))
+                    .SingleOrDefaultAsync(p => p.Id.Equals(item.Id));
+
+                if (result == null)
+                    return null;
+
+                item.UpdateAt = DateTime.UtcNow;
+                item.CreateAt = result.CreateAt;
+
+                _context.Entry(result).CurrentValues.SetValues(item);
+                await _context.SaveChangesAsync();
+
             }
             catch (Exception ex)
             {
