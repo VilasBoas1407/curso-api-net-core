@@ -7,3 +7,10 @@ D:\Projetos\curso-api-net-core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.A
 D:\Projetos\curso-api-net-core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
 D:\Projetos\curso-api-net-core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 D:\Projetos\curso-api-net-core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Projetos\curso-api-net-core\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\Projetos\curso-api-net-core\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\Projetos\curso-api-net-core\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\curso-api-net-core\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projetos\curso-api-net-core\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Projetos\curso-api-net-core\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\Projetos\curso-api-net-core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
