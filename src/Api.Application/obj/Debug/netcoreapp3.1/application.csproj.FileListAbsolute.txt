@@ -61,3 +61,8 @@ D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\stati
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
