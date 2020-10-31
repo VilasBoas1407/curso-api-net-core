@@ -67,3 +67,7 @@ D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Swash
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\.filenesting.json
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
