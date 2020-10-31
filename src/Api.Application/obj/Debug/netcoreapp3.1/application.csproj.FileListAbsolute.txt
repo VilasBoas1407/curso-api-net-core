@@ -66,3 +66,4 @@ D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Swash
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\.filenesting.json
