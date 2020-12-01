@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zYc/7sUDg2Cm/sgw1q5RpPEs+5CYslHBFCxAHQzYrw656Qa43JXEoUDESE6tVqqN/lwBvb/eDHGogVdGfdqocg==",
+  "dgSpecHash": "+mNtOhcUOIKk0VG6y8xQ7nJ4ef4phqV+YkmxQRMUbR0Chft2gJoFsHbUEBEsDLv+c1fiNIiCcE85x55RPGI4Cg==",
   "success": true,
   "projectFilePath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Lucas\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
