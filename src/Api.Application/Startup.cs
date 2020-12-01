@@ -49,7 +49,8 @@ namespace application
             {
                 authOptions.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
                 authOptions.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-            }).AddJwtBearer(bearerOptions => {
+            }).AddJwtBearer(bearerOptions =>
+            {
                 var paramsValidation = bearerOptions.TokenValidationParameters;
                 paramsValidation.IssuerSigningKey = signingConfigurations.Key;
                 paramsValidation.ValidAudience = tokenConfigurations.Audience;
@@ -80,7 +81,30 @@ namespace application
                         Name = "Lucas Vilas Boas Lage"
                     }
                 });
+
+                c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                {
+                    Description = "Insira o Token JWT",
+                    Name = "Authorization",
+                    In = ParameterLocation.Header,
+                    Type = SecuritySchemeType.ApiKey
+                });
+
+                c.AddSecurityRequirement(new OpenApiSecurityRequirement
+                {
+                    {
+                       new OpenApiSecurityScheme
+                       {
+                           Reference = new OpenApiReference
+                           {
+                               Id = "Bearer",
+                               Type = ReferenceType.SecurityScheme
+                           }
+                       }, new List<string>()
+                    }
+               });
             });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
