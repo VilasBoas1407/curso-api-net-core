@@ -2,7 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using CrossCutting.DependencyInjection;
+using CrossCutting.Mappings;
 using Domain.Security;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
@@ -33,6 +35,18 @@ namespace application
         {
             ConfigureService.ConfigureDependenciesService(services);
             ConfigureRepository.ConfigureDependenciesRepository(services);
+
+            //Configurando AutoMapper, responsável por converter as classes
+            var config = new AutoMapper.MapperConfiguration(c =>
+            {
+                c.AddProfile(new DtoToModelProfile());
+                c.AddProfile(new EntityToDtoProfile());
+                c.AddProfile(new ModelToEntityProfile());
+            });
+
+            IMapper mapper = config.CreateMapper();
+
+            services.AddSingleton(mapper);
 
             var signingConfigurations = new SigningConfigurations();
 
