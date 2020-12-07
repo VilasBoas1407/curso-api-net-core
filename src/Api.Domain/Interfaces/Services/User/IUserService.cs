@@ -11,8 +11,8 @@ namespace Domain.Interfaces.Services.User
     {
         Task<UserDTO> Get(Guid id);
         Task<IEnumerable<UserDTO>> GetAll();
-        Task<UserCreateResultDTO> Post(UserDTO user);
-        Task<UserUpdateResultDTO> Put(UserDTO user);
+        Task<UserCreateResultDTO> Post(UserDTOCreate user);
+        Task<UserUpdateResultDTO> Put(UserDTOUpdate user);
         Task<bool> Delete(Guid id);
 
     }
