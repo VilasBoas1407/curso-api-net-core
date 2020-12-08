@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Api.Data\Data.cspro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Api.Service\Service.csproj", "{1CFC54CF-B8C2-4537-ADBD-693E7196DD70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Service.Test", "api.Service.Test\Api.Service.Test.csproj", "{2EDAA81F-5D09-4E77-9299-1233AAC929C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{1CFC54CF-B8C2-4537-ADBD-693E7196DD70}.Release|x64.Build.0 = Release|Any CPU
 		{1CFC54CF-B8C2-4537-ADBD-693E7196DD70}.Release|x86.ActiveCfg = Release|Any CPU
 		{1CFC54CF-B8C2-4537-ADBD-693E7196DD70}.Release|x86.Build.0 = Release|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Debug|x64.Build.0 = Debug|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Debug|x86.Build.0 = Debug|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Release|x64.ActiveCfg = Release|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Release|x64.Build.0 = Release|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Release|x86.ActiveCfg = Release|Any CPU
+		{2EDAA81F-5D09-4E77-9299-1233AAC929C7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
