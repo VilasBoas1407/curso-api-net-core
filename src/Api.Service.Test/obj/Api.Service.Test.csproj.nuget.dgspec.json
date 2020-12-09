@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\curso-api-net-core\\src\\Api.Service.Test\\Api.Service.Test.csproj": {}
+    "D:\\Projetos\\curso-api-net-core\\src\\api.Service.Test\\Api.Service.Test.csproj": {}
   },
   "projects": {
     "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\CrossCutting.csproj": {
@@ -223,14 +223,14 @@
         }
       }
     },
-    "D:\\Projetos\\curso-api-net-core\\src\\Api.Service.Test\\Api.Service.Test.csproj": {
+    "D:\\Projetos\\curso-api-net-core\\src\\api.Service.Test\\Api.Service.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service.Test\\Api.Service.Test.csproj",
+        "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\api.Service.Test\\Api.Service.Test.csproj",
         "projectName": "Api.Service.Test",
-        "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service.Test\\Api.Service.Test.csproj",
+        "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\api.Service.Test\\Api.Service.Test.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service.Test\\obj\\",
+        "outputPath": "D:\\Projetos\\curso-api-net-core\\src\\api.Service.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
