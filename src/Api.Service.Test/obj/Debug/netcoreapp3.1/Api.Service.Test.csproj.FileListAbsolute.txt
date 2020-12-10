@@ -138,7 +138,6 @@ D:\Projetos\curso-api-net-core\src\api.Service.Test\bin\Debug\netcoreapp3.1\Data
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csprojAssemblyReference.cache
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.AssemblyInfoInputs.cache
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.AssemblyInfo.cs
-D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csproj.CoreCompileInputs.cache
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csproj.CopyComplete
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.dll
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.pdb
