@@ -142,3 +142,6 @@ D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.dll
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.pdb
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.genruntimeconfig.cache
+D:\Projetos\curso-api-net-core\src\api.Service.Test\bin\Debug\netcoreapp3.1\Faker.Net.Core.3.1.dll
+D:\Projetos\curso-api-net-core\src\api.Service.Test\bin\Debug\netcoreapp3.1\de-DE\Faker.Net.Core.3.1.resources.dll
+D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csproj.CoreCompileInputs.cache
