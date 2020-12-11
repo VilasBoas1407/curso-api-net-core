@@ -1344,17 +1344,17 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Domain/1.0.0": {
+      "Api.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "System.IdentityModel.Tokens.Jwt": "6.8.0"
         },
         "compile": {
-          "bin/placeholder/Domain.dll": {}
+          "bin/placeholder/Api.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Domain.dll": {}
+          "bin/placeholder/Api.Domain.dll": {}
         }
       }
     }
@@ -5157,15 +5157,15 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Domain/1.0.0": {
+    "Api.Domain/1.0.0": {
       "type": "project",
-      "path": "../Api.Domain/Domain.csproj",
-      "msbuildProject": "../Api.Domain/Domain.csproj"
+      "path": "../Api.Domain/Api.Domain.csproj",
+      "msbuildProject": "../Api.Domain/Api.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Domain >= 1.0.0",
+      "Api.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.6",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.6"
@@ -5203,8 +5203,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj"
+            "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj": {
+              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj"
             }
           }
         }

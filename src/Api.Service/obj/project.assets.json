@@ -1322,11 +1322,24 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Api.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "System.IdentityModel.Tokens.Jwt": "6.8.0"
+        },
+        "compile": {
+          "bin/placeholder/Api.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Api.Domain.dll": {}
+        }
+      },
       "Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Domain": "1.0.0",
+          "Api.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.6"
         },
         "compile": {
@@ -1334,19 +1347,6 @@
         },
         "runtime": {
           "bin/placeholder/Data.dll": {}
-        }
-      },
-      "Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "System.IdentityModel.Tokens.Jwt": "6.8.0"
-        },
-        "compile": {
-          "bin/placeholder/Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Domain.dll": {}
         }
       }
     }
@@ -5143,22 +5143,22 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Api.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Api.Domain/Api.Domain.csproj",
+      "msbuildProject": "../Api.Domain/Api.Domain.csproj"
+    },
     "Data/1.0.0": {
       "type": "project",
       "path": "../Api.Data/Data.csproj",
       "msbuildProject": "../Api.Data/Data.csproj"
-    },
-    "Domain/1.0.0": {
-      "type": "project",
-      "path": "../Api.Domain/Domain.csproj",
-      "msbuildProject": "../Api.Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Api.Domain >= 1.0.0",
       "AutoMapper >= 10.1.1",
-      "Data >= 1.0.0",
-      "Domain >= 1.0.0"
+      "Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5168,9 +5168,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Service.csproj",
-      "projectName": "Service",
-      "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Service.csproj",
+      "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Api.Service.csproj",
+      "projectName": "Api.Service",
+      "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Api.Service.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
       "outputPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\obj\\",
       "projectStyle": "PackageReference",
@@ -5196,8 +5196,8 @@
             "D:\\Projetos\\curso-api-net-core\\src\\Api.Data\\Data.csproj": {
               "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Data\\Data.csproj"
             },
-            "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj"
+            "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj": {
+              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj"
             }
           }
         }

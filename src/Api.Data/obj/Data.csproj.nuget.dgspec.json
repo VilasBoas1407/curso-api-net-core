@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj"
+              "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj"
               }
             }
           }
@@ -83,12 +83,12 @@
         }
       }
     },
-    "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
+    "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj",
-        "projectName": "Domain",
-        "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj",
+        "projectName": "Api.Domain",
+        "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
         "outputPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",

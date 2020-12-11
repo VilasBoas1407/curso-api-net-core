@@ -1577,11 +1577,11 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Api.Domain": "1.0.0",
+          "Api.Service": "1.0.0",
           "AutoMapper": "10.1.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.0.1",
-          "Data": "1.0.0",
-          "Domain": "1.0.0",
-          "Service": "1.0.0"
+          "Data": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Api.CrossCutting.dll": {}
@@ -1590,11 +1590,39 @@
           "bin/placeholder/Api.CrossCutting.dll": {}
         }
       },
+      "Api.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "System.IdentityModel.Tokens.Jwt": "6.8.0"
+        },
+        "compile": {
+          "bin/placeholder/Api.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Api.Domain.dll": {}
+        }
+      },
+      "Api.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Api.Domain": "1.0.0",
+          "AutoMapper": "10.1.1",
+          "Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Api.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Api.Service.dll": {}
+        }
+      },
       "Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Domain": "1.0.0",
+          "Api.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.6"
         },
         "compile": {
@@ -1602,34 +1630,6 @@
         },
         "runtime": {
           "bin/placeholder/Data.dll": {}
-        }
-      },
-      "Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "System.IdentityModel.Tokens.Jwt": "6.8.0"
-        },
-        "compile": {
-          "bin/placeholder/Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Domain.dll": {}
-        }
-      },
-      "Service/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "AutoMapper": "10.1.1",
-          "Data": "1.0.0",
-          "Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Service.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Service.dll": {}
         }
       }
     }
@@ -5913,28 +5913,28 @@
       "path": "../Api.CrossCutting/Api.CrossCutting.csproj",
       "msbuildProject": "../Api.CrossCutting/Api.CrossCutting.csproj"
     },
+    "Api.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Api.Domain/Api.Domain.csproj",
+      "msbuildProject": "../Api.Domain/Api.Domain.csproj"
+    },
+    "Api.Service/1.0.0": {
+      "type": "project",
+      "path": "../Api.Service/Api.Service.csproj",
+      "msbuildProject": "../Api.Service/Api.Service.csproj"
+    },
     "Data/1.0.0": {
       "type": "project",
       "path": "../Api.Data/Data.csproj",
       "msbuildProject": "../Api.Data/Data.csproj"
-    },
-    "Domain/1.0.0": {
-      "type": "project",
-      "path": "../Api.Domain/Domain.csproj",
-      "msbuildProject": "../Api.Domain/Domain.csproj"
-    },
-    "Service/1.0.0": {
-      "type": "project",
-      "path": "../Api.Service/Service.csproj",
-      "msbuildProject": "../Api.Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Api.CrossCutting >= 1.0.0",
-      "Domain >= 1.0.0",
+      "Api.Domain >= 1.0.0",
+      "Api.Service >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 3.1.10",
-      "Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -5973,11 +5973,11 @@
             "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\Api.CrossCutting.csproj": {
               "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\Api.CrossCutting.csproj"
             },
-            "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj"
+            "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj": {
+              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj"
             },
-            "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Service.csproj": {
-              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Service.csproj"
+            "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Api.Service.csproj": {
+              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Api.Service.csproj"
             }
           }
         }
