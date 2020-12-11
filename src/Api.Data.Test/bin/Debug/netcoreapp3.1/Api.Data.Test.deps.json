@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Api.Data.Test/1.0.0": {
         "dependencies": {
-          "CrossCutting": "1.0.0",
+          "Api.CrossCutting": "1.0.0",
           "Data": "1.0.0",
           "Domain": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
@@ -1323,7 +1323,7 @@
           "Microsoft.NET.Test.Sdk": "16.5.0"
         }
       },
-      "CrossCutting/1.0.0": {
+      "Api.CrossCutting/1.0.0": {
         "dependencies": {
           "AutoMapper": "10.1.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.0.1",
@@ -1332,7 +1332,7 @@
           "Service": "1.0.0"
         },
         "runtime": {
-          "CrossCutting.dll": {}
+          "Api.CrossCutting.dll": {}
         }
       },
       "Data/1.0.0": {
@@ -2147,7 +2147,7 @@
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
-    "CrossCutting/1.0.0": {
+    "Api.CrossCutting/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

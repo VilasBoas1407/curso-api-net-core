@@ -24,7 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Api.Application/1.0.0": {
         "dependencies": {
-          "CrossCutting": "1.0.0",
+          "Api.CrossCutting": "1.0.0",
           "Domain": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.10",
           "Service": "1.0.0",
@@ -1477,7 +1477,7 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "CrossCutting/1.0.0": {
+      "Api.CrossCutting/1.0.0": {
         "dependencies": {
           "AutoMapper": "10.1.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.0.1",
@@ -1486,10 +1486,10 @@
           "Service": "1.0.0"
         },
         "runtime": {
-          "CrossCutting.dll": {}
+          "Api.CrossCutting.dll": {}
         },
         "compile": {
-          "CrossCutting.dll": {}
+          "Api.CrossCutting.dll": {}
         }
       },
       "Data/1.0.0": {
@@ -3899,7 +3899,7 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "CrossCutting/1.0.0": {
+    "Api.CrossCutting/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

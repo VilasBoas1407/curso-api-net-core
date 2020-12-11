@@ -1884,7 +1884,7 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "CrossCutting/1.0.0": {
+      "Api.CrossCutting/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -1895,10 +1895,10 @@
           "Service": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/CrossCutting.dll": {}
+          "bin/placeholder/Api.CrossCutting.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CrossCutting.dll": {}
+          "bin/placeholder/Api.CrossCutting.dll": {}
         }
       },
       "Data/1.0.0": {
@@ -6724,10 +6724,10 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "CrossCutting/1.0.0": {
+    "Api.CrossCutting/1.0.0": {
       "type": "project",
-      "path": "../Api.CrossCutting/CrossCutting.csproj",
-      "msbuildProject": "../Api.CrossCutting/CrossCutting.csproj"
+      "path": "../Api.CrossCutting/Api.CrossCutting.csproj",
+      "msbuildProject": "../Api.CrossCutting/Api.CrossCutting.csproj"
     },
     "Data/1.0.0": {
       "type": "project",
@@ -6747,9 +6747,9 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Api.CrossCutting >= 1.0.0",
       "AutoMapper >= 10.1.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.0",
-      "CrossCutting >= 1.0.0",
       "Domain >= 1.0.0",
       "Faker.Net >= 1.3.93",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
@@ -6792,8 +6792,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\Api.CrossCutting.csproj": {
+              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\Api.CrossCutting.csproj"
             },
             "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
               "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj"

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UDkkBSqksZGg7Q/2htQsv6GjLT4vN4zj2EADTRxrXmfbHkOu/1TOxYQJKzfMNqtNtXYZasSYl9Q3zGBKMVcsxQ==",
+  "dgSpecHash": "odPb4rzgAlgz4b0/88Bpwej1eFIOxiewU4lEWpud4kYqjE7ZqxyqOuY63XDa9vTBrdOI4oFHJFxvlWs0x1aqtA==",
   "success": true,
   "projectFilePath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Data.Test\\Api.Data.Test.csproj",
   "expectedPackageFiles": [

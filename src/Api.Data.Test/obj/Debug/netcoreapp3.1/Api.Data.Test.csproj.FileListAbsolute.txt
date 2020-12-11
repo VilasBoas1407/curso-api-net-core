@@ -125,12 +125,10 @@ D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\runtime
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\CrossCutting.dll
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Data.dll
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Domain.dll
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Service.dll
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Data.pdb
-D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\CrossCutting.pdb
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Domain.pdb
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Service.pdb
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Api.Data.Test.csprojAssemblyReference.cache
@@ -141,3 +139,5 @@ D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Api.Dat
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Api.Data.Test.dll
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Api.Data.Test.pdb
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Api.Data.Test.genruntimeconfig.cache
+D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Api.CrossCutting.dll
+D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Api.CrossCutting.pdb

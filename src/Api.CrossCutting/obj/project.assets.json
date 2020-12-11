@@ -5217,9 +5217,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\CrossCutting.csproj",
-      "projectName": "CrossCutting",
-      "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\CrossCutting.csproj",
+      "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\Api.CrossCutting.csproj",
+      "projectName": "Api.CrossCutting",
+      "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\Api.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
       "outputPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",

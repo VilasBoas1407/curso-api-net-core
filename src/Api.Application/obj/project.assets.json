@@ -1573,7 +1573,7 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "CrossCutting/1.0.0": {
+      "Api.CrossCutting/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -1584,10 +1584,10 @@
           "Service": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/CrossCutting.dll": {}
+          "bin/placeholder/Api.CrossCutting.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CrossCutting.dll": {}
+          "bin/placeholder/Api.CrossCutting.dll": {}
         }
       },
       "Data/1.0.0": {
@@ -5908,10 +5908,10 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "CrossCutting/1.0.0": {
+    "Api.CrossCutting/1.0.0": {
       "type": "project",
-      "path": "../Api.CrossCutting/CrossCutting.csproj",
-      "msbuildProject": "../Api.CrossCutting/CrossCutting.csproj"
+      "path": "../Api.CrossCutting/Api.CrossCutting.csproj",
+      "msbuildProject": "../Api.CrossCutting/Api.CrossCutting.csproj"
     },
     "Data/1.0.0": {
       "type": "project",
@@ -5931,7 +5931,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CrossCutting >= 1.0.0",
+      "Api.CrossCutting >= 1.0.0",
       "Domain >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 3.1.10",
       "Service >= 1.0.0",
@@ -5970,8 +5970,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\Api.CrossCutting.csproj": {
+              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\Api.CrossCutting.csproj"
             },
             "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
               "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj"

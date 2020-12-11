@@ -54,11 +54,9 @@ D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\runti
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\CrossCutting.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Data.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Domain.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Service.dll
-D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\CrossCutting.pdb
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Domain.pdb
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Service.pdb
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Data.pdb
@@ -75,3 +73,5 @@ D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\stati
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.pdb
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.genruntimeconfig.cache
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Api.CrossCutting.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Api.CrossCutting.pdb
