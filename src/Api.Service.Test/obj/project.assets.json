@@ -1884,56 +1884,28 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "Api.CrossCutting/1.0.0": {
+      "CrossCutting/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Api.Domain": "1.0.0",
-          "Api.Service": "1.0.0",
           "AutoMapper": "10.1.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.0.1",
-          "Data": "1.0.0"
+          "Data": "1.0.0",
+          "Domain": "1.0.0",
+          "Service": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Api.CrossCutting.dll": {}
+          "bin/placeholder/CrossCutting.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Api.CrossCutting.dll": {}
-        }
-      },
-      "Api.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "System.IdentityModel.Tokens.Jwt": "6.8.0"
-        },
-        "compile": {
-          "bin/placeholder/Api.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Api.Domain.dll": {}
-        }
-      },
-      "Api.Service/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Api.Domain": "1.0.0",
-          "AutoMapper": "10.1.1",
-          "Data": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Api.Service.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Api.Service.dll": {}
+          "bin/placeholder/CrossCutting.dll": {}
         }
       },
       "Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Api.Domain": "1.0.0",
+          "Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.6"
         },
         "compile": {
@@ -1941,6 +1913,34 @@
         },
         "runtime": {
           "bin/placeholder/Data.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "System.IdentityModel.Tokens.Jwt": "6.8.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AutoMapper": "10.1.1",
+          "Data": "1.0.0",
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
         }
       }
     }
@@ -6724,37 +6724,37 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Api.CrossCutting/1.0.0": {
+    "CrossCutting/1.0.0": {
       "type": "project",
-      "path": "../Api.CrossCutting/Api.CrossCutting.csproj",
-      "msbuildProject": "../Api.CrossCutting/Api.CrossCutting.csproj"
-    },
-    "Api.Domain/1.0.0": {
-      "type": "project",
-      "path": "../Api.Domain/Api.Domain.csproj",
-      "msbuildProject": "../Api.Domain/Api.Domain.csproj"
-    },
-    "Api.Service/1.0.0": {
-      "type": "project",
-      "path": "../Api.Service/Api.Service.csproj",
-      "msbuildProject": "../Api.Service/Api.Service.csproj"
+      "path": "../Api.CrossCutting/CrossCutting.csproj",
+      "msbuildProject": "../Api.CrossCutting/CrossCutting.csproj"
     },
     "Data/1.0.0": {
       "type": "project",
       "path": "../Api.Data/Data.csproj",
       "msbuildProject": "../Api.Data/Data.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Api.Domain/Domain.csproj",
+      "msbuildProject": "../Api.Domain/Domain.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Api.Service/Service.csproj",
+      "msbuildProject": "../Api.Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Api.CrossCutting >= 1.0.0",
-      "Api.Domain >= 1.0.0",
-      "Api.Service >= 1.0.0",
       "AutoMapper >= 10.1.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.0",
+      "CrossCutting >= 1.0.0",
+      "Domain >= 1.0.0",
       "Faker.Net >= 1.3.93",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "Moq >= 4.14.5",
+      "Service >= 1.0.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
@@ -6767,9 +6767,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\api.Service.Test\\Api.Service.Test.csproj",
-      "projectName": "Api.Service.Test",
-      "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\api.Service.Test\\Api.Service.Test.csproj",
+      "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\api.Service.Test\\Service.Test.csproj",
+      "projectName": "Service.Test",
+      "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\api.Service.Test\\Service.Test.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
       "outputPath": "D:\\Projetos\\curso-api-net-core\\src\\api.Service.Test\\obj\\",
       "projectStyle": "PackageReference",
@@ -6792,14 +6792,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\Api.CrossCutting.csproj": {
-              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\Api.CrossCutting.csproj"
+            "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj": {
-              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj"
+            "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj"
             },
-            "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Api.Service.csproj": {
-              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Api.Service.csproj"
+            "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Service.csproj": {
+              "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Service.csproj"
             }
           }
         }

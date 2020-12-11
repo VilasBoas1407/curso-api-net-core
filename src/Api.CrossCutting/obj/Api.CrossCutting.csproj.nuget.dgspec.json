@@ -35,11 +35,11 @@
               "D:\\Projetos\\curso-api-net-core\\src\\Api.Data\\Data.csproj": {
                 "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Data\\Data.csproj"
               },
-              "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj"
+              "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj"
               },
-              "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Api.Service.csproj": {
-                "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Api.Service.csproj"
+              "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -109,8 +109,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj"
+              "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -160,12 +160,12 @@
         }
       }
     },
-    "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj": {
+    "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj",
-        "projectName": "Api.Domain",
-        "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj",
+        "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
         "outputPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
@@ -223,12 +223,12 @@
         }
       }
     },
-    "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Api.Service.csproj": {
+    "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Api.Service.csproj",
-        "projectName": "Api.Service",
-        "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Api.Service.csproj",
+        "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
         "outputPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
@@ -254,8 +254,8 @@
               "D:\\Projetos\\curso-api-net-core\\src\\Api.Data\\Data.csproj": {
                 "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Data\\Data.csproj"
               },
-              "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Api.Domain.csproj"
+              "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }

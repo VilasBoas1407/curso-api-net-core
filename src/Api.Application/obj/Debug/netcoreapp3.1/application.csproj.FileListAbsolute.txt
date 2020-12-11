@@ -75,3 +75,6 @@ D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\stati
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Faker.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Faker.Net.Core.3.1.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\de-DE\Faker.Net.Core.3.1.resources.dll

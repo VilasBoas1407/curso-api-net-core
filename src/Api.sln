@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Application", "Api.Application\Api.Application.csproj", "{257B3BFE-8B56-4B72-B1B2-AB2BC013A2D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Api.Application\Application.csproj", "{257B3BFE-8B56-4B72-B1B2-AB2BC013A2D4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Domain", "Api.Domain\Api.Domain.csproj", "{12D07A4D-98F3-4EF8-8646-6B8CC4DA320F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Api.Domain\Domain.csproj", "{12D07A4D-98F3-4EF8-8646-6B8CC4DA320F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.CrossCutting", "Api.CrossCutting\Api.CrossCutting.csproj", "{307B22CC-91E4-4424-8CE3-FA0C867726FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossCutting", "Api.CrossCutting\CrossCutting.csproj", "{307B22CC-91E4-4424-8CE3-FA0C867726FB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Api.Data\Data.csproj", "{A5D74570-92CF-4C21-A915-DFC3C85AE554}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Service", "Api.Service\Api.Service.csproj", "{1CFC54CF-B8C2-4537-ADBD-693E7196DD70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Api.Service\Service.csproj", "{1CFC54CF-B8C2-4537-ADBD-693E7196DD70}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Service.Test", "api.Service.Test\Api.Service.Test.csproj", "{2EDAA81F-5D09-4E77-9299-1233AAC929C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service.Test", "api.Service.Test\Service.Test.csproj", "{2EDAA81F-5D09-4E77-9299-1233AAC929C7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Data.Test", "Api.Data.Test\Api.Data.Test.csproj", "{51F684EF-CCA4-4EF4-822A-6DB46BC1EDB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.Test", "Api.Data.Test\Data.Test.csproj", "{51F684EF-CCA4-4EF4-822A-6DB46BC1EDB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

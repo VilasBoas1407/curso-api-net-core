@@ -3,8 +3,6 @@ D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtime
 D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
 D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
 D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
-D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.dll
-D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.pdb
 D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
 D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
 D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
@@ -13,3 +11,5 @@ D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.
 D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
 D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
 D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
