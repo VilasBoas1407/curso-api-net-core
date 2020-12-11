@@ -53,6 +53,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Faker": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Faker.Net": {
+              "target": "Package",
+              "version": "[1.3.93, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[3.1.10, )"

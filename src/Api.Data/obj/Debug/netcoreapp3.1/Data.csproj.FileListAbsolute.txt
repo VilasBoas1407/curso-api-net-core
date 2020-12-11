@@ -5,6 +5,7 @@ D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
 D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
 D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.dll
 D:\Projetos\curso-api-net-core\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
 D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
 D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
 D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache

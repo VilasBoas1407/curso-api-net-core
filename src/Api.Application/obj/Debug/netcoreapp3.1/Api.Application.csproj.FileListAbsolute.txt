@@ -10,6 +10,7 @@ D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Api.A
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Api.Application.pdb
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Faker.Net.Core.3.1.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
@@ -46,6 +47,7 @@ D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Syste
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\de-DE\Faker.Net.Core.3.1.resources.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
@@ -65,9 +67,6 @@ D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Data.
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.csprojAssemblyReference.cache
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.AssemblyInfoInputs.cache
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.AssemblyInfo.cs
-D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.csproj.CoreCompileInputs.cache
-D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.MvcApplicationPartsAssemblyInfo.cs
-D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.MvcApplicationPartsAssemblyInfo.cache
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.RazorTargetAssemblyInfo.cache
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.csproj.CopyComplete
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\Api.Application.StaticWebAssets.Manifest.cache
@@ -75,3 +74,7 @@ D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\stati
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.dll
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.pdb
 D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.genruntimeconfig.cache
+D:\Projetos\curso-api-net-core\src\Api.Application\bin\Debug\netcoreapp3.1\Faker.dll
+D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos\curso-api-net-core\src\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.MvcApplicationPartsAssemblyInfo.cache
