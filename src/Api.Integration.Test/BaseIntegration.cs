@@ -42,10 +42,10 @@ namespace Integration.Test
         {
             var loginDto = new LoginDTO()
             {
-                Email = "mfrinfo@mail.com"
+                Email = "lucasvilas@email.com.br"
             };
 
-            var resultLogin = await PostJsonAsync(loginDto, $"{hostApi}login", client);
+            var resultLogin = await PostJsonAsync(loginDto, $"{hostApi}Login", client);
             var jsonLogin = await resultLogin.Content.ReadAsStringAsync();
             var loginObject = JsonConvert.DeserializeObject<LoginResponseDto>(jsonLogin);
 
