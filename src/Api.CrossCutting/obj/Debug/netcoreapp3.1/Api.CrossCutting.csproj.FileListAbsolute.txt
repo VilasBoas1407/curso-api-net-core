@@ -1,0 +1,4 @@
+D:\Projetos\curso-api-net-core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csprojAssemblyReference.cache
+D:\Projetos\curso-api-net-core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.AssemblyInfoInputs.cache
+D:\Projetos\curso-api-net-core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.AssemblyInfo.cs
+D:\Projetos\curso-api-net-core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csproj.CoreCompileInputs.cache

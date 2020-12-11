@@ -1,0 +1,4 @@
+D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csprojAssemblyReference.cache
+D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfoInputs.cache
+D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfo.cs
+D:\Projetos\curso-api-net-core\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CoreCompileInputs.cache

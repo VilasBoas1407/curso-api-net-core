@@ -5945,9 +5945,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.Application\\application.csproj",
-      "projectName": "application",
-      "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Application\\application.csproj",
+      "projectUniqueName": "D:\\Projetos\\curso-api-net-core\\src\\Api.Application\\Api.Application.csproj",
+      "projectName": "Api.Application",
+      "projectPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Application\\Api.Application.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
       "outputPath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Application\\obj\\",
       "projectStyle": "PackageReference",
