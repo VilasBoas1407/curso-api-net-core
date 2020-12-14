@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Domain.DTO.Location.CEP
 {
-    public class CepCreateResult
+    public class CepCreateResultDTO
     {
         public Guid Id { get; set; }
         public string Cep { get; set; }
