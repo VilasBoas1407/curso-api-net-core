@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SYm4z0vS60XwTrcab1y4P71k4w/Y/1iJzA+18XUO2zCzB9MsKVhFU5GAK4NybR9ep1KXmqCQeSTGlsXvb78CpA==",
+  "dgSpecHash": "vPTIo4pcvK6moVCyZvO4OdwsXBuN/zV7IMH0F+wgaC3cNeIniSBNmhvfrlPx4ZCY90sf8HNo0iKLS0WmjYHbog==",
   "success": true,
   "projectFilePath": "D:\\Projetos\\curso-api-net-core\\src\\Api.Integration.Test\\Integration.Test.csproj",
   "expectedPackageFiles": [

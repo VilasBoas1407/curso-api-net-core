@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8thCvdI9OIf0yLKV9b1XMn3sMiVw6xP0ETR7sINr356uo6stbcuACwmLLs8S9lk6Y/VTsWV2nh0HP6+XoYx35w==",
+  "dgSpecHash": "tltUQhzyhRPjy+Xf3U6JHCwLtA6i7Qe1FeelhwVSSmfzZ4U0XGvqu14VGuYzdK+IoLrqu90MvyCpLblnYImQgA==",
   "success": true,
   "projectFilePath": "D:\\Projetos\\curso-api-net-core\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
