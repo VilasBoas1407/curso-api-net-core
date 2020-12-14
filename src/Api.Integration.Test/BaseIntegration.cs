@@ -42,7 +42,7 @@ namespace Integration.Test
         {
             var loginDto = new LoginDTO()
             {
-                Email = "lucasvilas@email.com.br"
+                Email = "lucas.vilas@email.com"
             };
 
             var resultLogin = await PostJsonAsync(loginDto, $"{hostApi}Login", client);
