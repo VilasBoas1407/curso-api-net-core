@@ -1,7 +1,6 @@
 D:\Projetos\curso-api-net-core\src\Api.Application.Test\bin\Debug\netcoreapp3.1\.filenesting.json
 D:\Projetos\curso-api-net-core\src\Api.Application.Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Projetos\curso-api-net-core\src\Api.Application.Test\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Projetos\curso-api-net-core\src\Api.Application.Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Projetos\curso-api-net-core\src\Api.Application.Test\bin\Debug\netcoreapp3.1\Application.exe
 D:\Projetos\curso-api-net-core\src\Api.Application.Test\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\Projetos\curso-api-net-core\src\Api.Application.Test\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll

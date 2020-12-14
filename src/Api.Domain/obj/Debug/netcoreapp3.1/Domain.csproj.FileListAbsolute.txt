@@ -6,3 +6,4 @@ D:\Projetos\curso-api-net-core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.Ass
 D:\Projetos\curso-api-net-core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 D:\Projetos\curso-api-net-core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
 D:\Projetos\curso-api-net-core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Projetos\curso-api-net-core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
