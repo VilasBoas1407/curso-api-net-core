@@ -63,8 +63,7 @@ namespace application.Controllers
             }
         }
 
-
-        [Authorize("Bearer")]
+        [AllowAnonymous]
         [HttpPost]
         public async Task<ActionResult> Post([FromBody] UserDTOCreate user)
         {
