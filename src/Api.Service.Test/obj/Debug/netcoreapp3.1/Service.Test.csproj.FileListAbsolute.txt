@@ -1,3 +1,7 @@
+D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Service.Test.csprojAssemblyReference.cache
+D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Service.Test.AssemblyInfoInputs.cache
+D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Service.Test.AssemblyInfo.cs
+D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Service.Test.csproj.CoreCompileInputs.cache
 D:\Projetos\curso-api-net-core\src\api.Service.Test\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\Projetos\curso-api-net-core\src\api.Service.Test\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
 D:\Projetos\curso-api-net-core\src\api.Service.Test\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
@@ -137,10 +141,6 @@ D:\Projetos\curso-api-net-core\src\api.Service.Test\bin\Debug\netcoreapp3.1\Serv
 D:\Projetos\curso-api-net-core\src\api.Service.Test\bin\Debug\netcoreapp3.1\CrossCutting.pdb
 D:\Projetos\curso-api-net-core\src\api.Service.Test\bin\Debug\netcoreapp3.1\Domain.pdb
 D:\Projetos\curso-api-net-core\src\api.Service.Test\bin\Debug\netcoreapp3.1\Data.pdb
-D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Service.Test.csprojAssemblyReference.cache
-D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Service.Test.AssemblyInfoInputs.cache
-D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Service.Test.AssemblyInfo.cs
-D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Service.Test.csproj.CoreCompileInputs.cache
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Service.Test.csproj.CopyComplete
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Service.Test.dll
 D:\Projetos\curso-api-net-core\src\api.Service.Test\obj\Debug\netcoreapp3.1\Service.Test.pdb

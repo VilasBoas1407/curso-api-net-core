@@ -1,3 +1,4 @@
+D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Data.Test.csproj.CopyComplete
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
@@ -139,7 +140,6 @@ D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Data.Te
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Data.Test.AssemblyInfoInputs.cache
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Data.Test.AssemblyInfo.cs
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Data.Test.csproj.CoreCompileInputs.cache
-D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Data.Test.csproj.CopyComplete
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Data.Test.dll
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Data.Test.pdb
 D:\Projetos\curso-api-net-core\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Data.Test.genruntimeconfig.cache
