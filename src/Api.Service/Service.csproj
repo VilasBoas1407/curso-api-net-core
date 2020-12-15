@@ -9,10 +9,6 @@
     <PackageReference Include="AutoMapper" Version="10.1.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\Location\" />
-  </ItemGroup>
-
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
